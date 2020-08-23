@@ -24,12 +24,13 @@
 
     # always loaded
     'data': [
+#        'report/pos_receipt_ext.xml',
         #'security/ir.model.access.csv',
         #'views/views.xml',
         #'views/templates.xml',
     ],
     'qweb': [
-        'reports/pos_receipt_ext.xml',
+        'report/pos_receipt_ext.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
